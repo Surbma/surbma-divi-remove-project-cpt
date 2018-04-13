@@ -2,9 +2,9 @@
 Contributors: Surbma
 Donate link: http://surbma.com/
 Tags: divi, divi theme, elegant themes, elegantthemes, project cpt, project
-Requires at least: 3.0
-Tested up to: 4.4
-Stable tag: 1.1.0
+Requires at least: 4.0
+Tested up to: 4.9
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,6 +56,11 @@ Visit my webpage: [Surbma.com](http://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1 =
+
+- Simpler versioning.
+- Tested up to WordPress 4.9 version.
 
 = 1.1.0 =
 
