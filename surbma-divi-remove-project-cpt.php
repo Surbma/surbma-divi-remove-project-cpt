@@ -1,14 +1,14 @@
 <?php
 
 /*
-Plugin Name: Surbma - Divi Remove Project CPT
-Plugin URI: http://surbma.com/wordpress-plugins/
+Plugin Name: Surbma | Divi Remove Project CPT
+Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Removes the Project Custom Post Type from Divi theme.
 
-Version: 1.1
+Version: 2.0
 
 Author: Surbma
-Author URI: http://surbma.com/
+Author URI: https://surbma.com/
 
 License: GPLv2
 
