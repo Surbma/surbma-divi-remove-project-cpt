@@ -1,11 +1,11 @@
-=== Surbma | Divi Remove Project CPT ===
+=== Surbma | Divi Remove Project CPT & Taxonomies ===
 Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: divi, divi theme, elegant themes, elegantthemes, project cpt, project
 Requires at least: 5.1
-Tested up to: 6.2
-Stable tag: 2.0
-Requires PHP: 7.0
+Tested up to: 6.5
+Stable tag: 3.0
+Requires PHP: 7.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Removes the Project Custom Post Type from Divi theme.
 
 == Description ==
 
-This plugin simply removes the Project Custom Post Type, if you don't want to use it. You only need to activate the plugin and your Project menu is gone from your admin menu.
+This plugin simply removes the Project Custom Post Type and its Custom Taxonomies. If you don't want to use it, you only need to activate the plugin and your Project menu is gone from your admin menu.
 
 You have to buy the Divi Theme to use this plugin:
 
@@ -58,6 +58,14 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 3.0 =
+
+Release date: 2024-06-23
+
+- NEW - It removes the Custom Taxonomies as well related to Project CPT.
+- TWEAK - Code optimizations.
+- TWEAK - Tested with WordPress 6.5 version.
 
 = 2.0 =
 
